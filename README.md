@@ -29,7 +29,7 @@ We recommend the `composer` installation. However, you can get SDK PHP by clonin
 
 ```
 
-git clone https://github.com/GetResponse/sdk-php.git
+git clone https://github.com/naturalGroove/getresponse-sdk-php.git
 
 ```
 

@@ -1,8 +1,14 @@
 {
-    "name": "getresponse/sdk-php",
+    "name": "naturalGroove/getresponse-sdk-php",
     "description": "SDK for all public GetResponse products",
     "minimum-stability": "stable",
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/naturalGroove/getresponse-sdk-php-client"
+        }
+    ],
     "authors": [
         {
             "name": "GetResponse DevTeam"
@@ -18,7 +24,7 @@
         }
     },
     "require": {
-        "getresponse/sdk-php-client": "^1.0"
+        "naturalGroove/getresponse-sdk-php-client": "^1.1.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8 || ^5.0"

@@ -24,7 +24,7 @@
         }
     },
     "require": {
-        "naturalgroove/getresponse-sdk-php-client": "^1.1.2"
+        "naturalgroove/getresponse-sdk-php-client": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8 || ^5.0"

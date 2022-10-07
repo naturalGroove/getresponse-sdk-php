@@ -21,14 +21,6 @@ Read more about the API in [GetResponse API Docs](https://apidocs.getresponse.co
 
 * Composer or git
 
-## SDK installation
-
-### Using Composer
-
-```
-composer require getresponse/sdk-php
-```
-
 See [https://getcomposer.org](https://getcomposer.org) for details.
 
 ### Using git
